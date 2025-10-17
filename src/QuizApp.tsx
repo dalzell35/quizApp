@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import input from "./Questions/SportsQuizQuestions.json";
+import input from "./Questions/Sport's Quiz.json";
 import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
 
 // ---------------- Quiz JSON Builder ----------------
