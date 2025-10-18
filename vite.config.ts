@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/quizApp/', // 👈 VERY IMPORTANT for GitHub Pages
 })
