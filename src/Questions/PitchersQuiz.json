@@ -47,13 +47,13 @@
         "image": "/images/Round1/07.webp"
       },
       {
-        "question": "Amy Winehouse, Kurt Kobain & Jimmy hendrix all died at the same age. What age was this??",
+        "question": "Amy Winehouse, Kurt Kobain & Jimmy Hendrix all died at the same age. What age was this?",
         "type": "open",
         "answerText": "27",
         "image": "/images/Round1/08.webp"
       },
       {
-        "question": "IN which decade of the 20th centry was george best born?",
+        "question": "In which decade of the 20th century was George Best born?",
         "type": "open",
         "answerText": "1940's",
         "image": "/images/Round1/09.webp"
@@ -84,56 +84,55 @@
       {
         "question": "Who's Voice is this?",
         "type": "open",
-        "answerText": "Marcus Rashford",
+        "answerText": "",
         "video": "/videos/guessTheVoice/03.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
-        "answerText": "George Best",
+        "answerText": "",
         "video": "/videos/guessTheVoice/04.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
-        "answerText": "Sir Steve Redgrave",
+        "answerText": "",
         "video": "/videos/guessTheVoice/05.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
-        "answerText": "Linford Christie",
+        "answerText": "",
         "video": "/videos/guessTheVoice/06.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
-        "answerText": "Steve Davies",
+        "answerText": "",
         "video": "/videos/guessTheVoice/07.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
-        "answerText": "Christiano Ronaldo",
+        "answerText": "",
         "video": "/videos/guessTheVoice/08.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
-        "answerText": "Ronnie O'Sulivan",
+        "answerText": "",
         "video": "/videos/guessTheVoice/09.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
-        "answerText": "Floyd Mayweather",
+        "answerText": "",
         "video": "/videos/guessTheVoice/10.mp3"
       }
     ]
   },
   {
     "name": "Round 3 - 90's Pop Music - Split 10 songs",
-    "timer": 30,
     "questions": [
       {
         "question": "What Stadium Is This?",
