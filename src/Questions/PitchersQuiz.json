@@ -331,68 +331,69 @@
     ]
   },
   {
-    "name": "Round 5 - Famous Sports Personalities - Jim Broadbent, Lyndsey Lohan, Danny Devito, Pharell Williams, Zac Efron, Sergio Ramos, Tony McCoy, Adam Peaty, David Beckham, Chris Hoy",
+    "name": "Round 5 - Picture Round",
     "timer": 30,
     "questions": [
       {
         "question": "Who's This?",
         "type": "open",
-        "answerText": "Laura Kenny",
-        "image": "public/images/FamousPeople/01.png"
-      },
-      {
-        "question": "Who's This?",
-        "type": "open",
         "answerText": "Adam Peaty",
-        "image": "public/images/FamousPeople/02.png"
+        "image": "public/images/SportsQuiz/FamousPeople/02.png"
       },
       {
         "question": "Who's This?",
         "type": "open",
-        "answerText": "Dan Walker",
-        "image": "public/images/FamousPeople/03.png"
+        "answerText": "Danny De Vito",
+        "image": "public/images/SportsQuiz/FamousPeople/13.png"
       },
-      {
-        "question": "Who's This?",
-        "type": "open",
-        "answerText": "Joe Calzaghe",
-        "image": "public/images/FamousPeople/04.png"
-      },
+
       {
         "question": "Who's This?",
         "type": "open",
         "answerText": "Chris Hoy",
-        "image": "public/images/FamousPeople/05.png"
+        "image": "public/images/SportsQuiz/FamousPeople/05.png"
+      },
+      {
+        "question": "Who's This?",
+        "type": "open",
+        "answerText": "Lyndsey Lohan",
+        "image": "public/images/SportsQuiz/FamousPeople/12.png"
       },
       {
         "question": "Who's This?",
         "type": "open",
         "answerText": "David Beckham",
-        "image": "public/images/FamousPeople/06.png"
+        "image": "public/images/SportsQuiz/FamousPeople/06.png"
+      },
+      {
+        "question": "Who's This?",
+        "type": "open",
+        "answerText": "Pharell Williams",
+        "image": "public/images/SportsQuiz/FamousPeople/14.png"
       },
       {
         "question": "Who's This?",
         "type": "open",
         "answerText": "Sergio Ramos",
-        "image": "public/images/FamousPeople/07.png"
+        "image": "public/images/SportsQuiz/FamousPeople/07.png"
       },
       {
         "question": "Who's This?",
         "type": "open",
-        "answerText": "Lionel Messy",
-        "image": "public/images/FamousPeople/08.png"
+        "answerText": "Jim Broadbent",
+        "image": "public/images/SportsQuiz/FamousPeople/11.png"
       },
       {
         "question": "Who's This?",
         "type": "open",
         "answerText": "Tony McCoy",
-        "image": "public/images/FamousPeople/09.png"
+        "image": "public/images/SportsQuiz/FamousPeople/09.png"
       },
       {
         "question": "Who's This?",
         "type": "open",
-        "answerText": "Jamie Murray",
-        "image": "public/images/FamousPeople/10.png"
+        "answerText": "Zac Efron",
+        "image": "public/images/SportsQuiz/FamousPeople/15.png"
       }
     ]
   },
