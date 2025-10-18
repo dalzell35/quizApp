@@ -539,7 +539,7 @@ export default function App() {
         </button>
 
         <h1 className="text-6xl md:text-7xl font-extrabold mb-8 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 bg-clip-text text-transparent drop-shadow-lg tracking-wide">
-          Question Of Sport?
+          Inquizitive
         </h1>
         {homeView === "main" && (
           <>

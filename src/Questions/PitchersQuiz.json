@@ -73,61 +73,61 @@
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "Carol Vorderman",
-        "video": "public/audio/pitchers/voices2/Carol Vorderman_01.mp3"
+        "video": "audio/pitchers/voices2/Carol Vorderman_01.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "Daniella Westbrook",
-        "video": "public/audio/pitchers/voices2/Daniella Westbrook_01.mp3"
+        "video": "audio/pitchers/voices2/Daniella Westbrook_01.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "Danny De Vito",
-        "video": "public/audio/pitchers/voices2/Danny De Vito_01.mp3"
+        "video": "audio/pitchers/voices2/Danny De Vito_01.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "David Beckham",
-        "video": "public/audio/pitchers/voices2/David Beckham_03.mp3"
+        "video": "audio/pitchers/voices2/David Beckham_03.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "David Walliams",
-        "video": "public/audio/pitchers/voices2/David Walliams_01.mp3"
+        "video": "audio/pitchers/voices2/David Walliams_01.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "Derren Brown",
-        "video": "public/audio/pitchers/voices2/Derren Brown_01.mp3"
+        "video": "audio/pitchers/voices2/Derren Brown_01.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "George Best",
-        "video": "public/audio/pitchers/voices2/George Best_01.mp3"
+        "video": "audio/pitchers/voices2/George Best_01.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "Hugh Grant",
-        "video": "public/audio/pitchers/voices2/Hugh Grant_01.mp3"
+        "video": "audio/pitchers/voices2/Hugh Grant_01.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "Miley Cyrus",
-        "video": "public/audio/pitchers/voices2/Miley Cyrus_01.mp3"
+        "video": "audio/pitchers/voices2/Miley Cyrus_01.mp3"
       },
       {
         "question": "Who's Voice is this?",
         "type": "open",
         "answerText": "George Michael",
-        "video": "public/audio/pitchers/voices2/George Michael_01.mp3"
+        "video": "audio/pitchers/voices2/George Michael_01.mp3"
       }
     ]
   },
@@ -138,61 +138,61 @@
         "question": "What Song is this?",
         "type": "open",
         "answerText": "Wimbledon - Main Court",
-        "video": "public/audio/pitchers/90sSplit/01.mp3"
+        "video": "audio/pitchers/90sSplit/01.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "St Andrews (Old Course)",
-        "video": "public/audio/pitchers/90sSplit/02.mp3"
+        "video": "audio/pitchers/90sSplit/02.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "Camp Nou",
-        "video": "public/audio/pitchers/90sSplit/03.mp3"
+        "video": "audio/pitchers/90sSplit/03.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "Monaco GP",
-        "video": "public/audio/pitchers/90sSplit/04.mp3"
+        "video": "audio/pitchers/90sSplit/04.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "Collesium",
-        "video": "public/audio/pitchers/90sSplit/05.mp3"
+        "video": "audio/pitchers/90sSplit/05.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "Roland Garros",
-        "video": "public/audio/pitchers/90sSplit/06.mp3"
+        "video": "audio/pitchers/90sSplit/06.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "Wembley Stadium",
-        "video": "public/audio/pitchers/90sSplit/07.mp3"
+        "video": "audio/pitchers/90sSplit/07.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "Twickenham Stadium",
-        "video": "public/audio/pitchers/90sSplit/08.mp3"
+        "video": "audio/pitchers/90sSplit/08.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "London Stadium",
-        "video": "public/audio/pitchers/90sSplit/09.mp3"
+        "video": "audio/pitchers/90sSplit/09.mp3"
       },
       {
         "question": "What Song is this?",
         "type": "open",
         "answerText": "Lords Cricket Ground",
-        "video": "public/audio/pitchers/90sSplit/10.mp3"
+        "video": "audio/pitchers/90sSplit/10.mp3"
       }
     ]
   },
