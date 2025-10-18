@@ -135,64 +135,64 @@
     "name": "Round 3 - 90's Pop Music - Split 10 songs",
     "questions": [
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "Wimbledon - Main Court",
-        "image": "/images/places/01.png"
+        "video": "public/audio/pitchers/90sSplit/01.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "St Andrews (Old Course)",
-        "image": "/images/places/02.png"
+        "video": "public/audio/pitchers/90sSplit/02.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "Camp Nou",
-        "image": "/images/places/03.png"
+        "video": "public/audio/pitchers/90sSplit/03.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "Monaco GP",
-        "image": "/images/places/04.png"
+        "video": "public/audio/pitchers/90sSplit/04.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "Collesium",
-        "image": "/images/places/05.png"
+        "video": "public/audio/pitchers/90sSplit/05.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "Roland Garros",
-        "image": "/images/places/06.png"
+        "video": "public/audio/pitchers/90sSplit/06.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "Wembley Stadium",
-        "image": "/images/places/07.png"
+        "video": "public/audio/pitchers/90sSplit/07.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "Twickenham Stadium",
-        "image": "/images/places/08.png"
+        "video": "public/audio/pitchers/90sSplit/08.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "London Stadium",
-        "image": "/images/places/09.png"
+        "video": "public/audio/pitchers/90sSplit/09.mp3"
       },
       {
-        "question": "What Stadium Is This?",
+        "question": "What Song is this?",
         "type": "open",
         "answerText": "Lords Cricket Ground",
-        "image": "/images/places/10.png"
+        "video": "public/audio/pitchers/90sSplit/10.mp3"
       }
     ]
   },

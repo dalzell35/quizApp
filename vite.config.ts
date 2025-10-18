@@ -11,4 +11,7 @@ export default defineConfig({
     }),
   ],
   base: '/quizApp/', // 👈 VERY IMPORTANT for GitHub Pages
+  build: {
+    sourcemap: false, // 👈 disable .map files
+  },
 })
