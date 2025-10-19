@@ -497,7 +497,6 @@ export default function App() {
     setTimerActive(false);
     setHomeClickCount((prev) => prev + 1); // Count presses
   };
-  
 
   useEffect(() => {
     if (!round || reviewMode) return;
